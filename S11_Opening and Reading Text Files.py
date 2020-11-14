@@ -1,0 +1,6 @@
+myFynction=open('myText.txt','r')
+firstline = myFunction.readline()
+secondline = myFunction.readline()
+print (firstline)
+print (secondline)
+myFunction.close()
